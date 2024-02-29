@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MCNP-ISAP\\Desktop\\InventorySystemWeb\\API\\API.csproj": {}
+    "C:\\Users\\MCNP-ISAP\\Documents\\GitHub\\ICT-InventorySystemWeb\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MCNP-ISAP\\Desktop\\InventorySystemWeb\\API\\API.csproj": {
+    "C:\\Users\\MCNP-ISAP\\Documents\\GitHub\\ICT-InventorySystemWeb\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MCNP-ISAP\\Desktop\\InventorySystemWeb\\API\\API.csproj",
+        "projectUniqueName": "C:\\Users\\MCNP-ISAP\\Documents\\GitHub\\ICT-InventorySystemWeb\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\MCNP-ISAP\\Desktop\\InventorySystemWeb\\API\\API.csproj",
+        "projectPath": "C:\\Users\\MCNP-ISAP\\Documents\\GitHub\\ICT-InventorySystemWeb\\API\\API.csproj",
         "packagesPath": "C:\\Users\\MCNP-ISAP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MCNP-ISAP\\Desktop\\InventorySystemWeb\\API\\obj\\",
+        "outputPath": "C:\\Users\\MCNP-ISAP\\Documents\\GitHub\\ICT-InventorySystemWeb\\API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,11 +32,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\MCNP-ISAP\\Desktop\\InventorySystemWeb\\Core\\Core.csproj": {
-                "projectPath": "C:\\Users\\MCNP-ISAP\\Desktop\\InventorySystemWeb\\Core\\Core.csproj"
+              "C:\\Users\\MCNP-ISAP\\Documents\\GitHub\\ICT-InventorySystemWeb\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\MCNP-ISAP\\Documents\\GitHub\\ICT-InventorySystemWeb\\Core\\Core.csproj"
               },
-              "C:\\Users\\MCNP-ISAP\\Desktop\\InventorySystemWeb\\Infrastructure\\Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\MCNP-ISAP\\Desktop\\InventorySystemWeb\\Infrastructure\\Infrastructure.csproj"
+              "C:\\Users\\MCNP-ISAP\\Documents\\GitHub\\ICT-InventorySystemWeb\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\MCNP-ISAP\\Documents\\GitHub\\ICT-InventorySystemWeb\\Infrastructure\\Infrastructure.csproj"
               }
             }
           }
@@ -97,14 +97,14 @@
         }
       }
     },
-    "C:\\Users\\MCNP-ISAP\\Desktop\\InventorySystemWeb\\Core\\Core.csproj": {
+    "C:\\Users\\MCNP-ISAP\\Documents\\GitHub\\ICT-InventorySystemWeb\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MCNP-ISAP\\Desktop\\InventorySystemWeb\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Users\\MCNP-ISAP\\Documents\\GitHub\\ICT-InventorySystemWeb\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\MCNP-ISAP\\Desktop\\InventorySystemWeb\\Core\\Core.csproj",
+        "projectPath": "C:\\Users\\MCNP-ISAP\\Documents\\GitHub\\ICT-InventorySystemWeb\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\MCNP-ISAP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MCNP-ISAP\\Desktop\\InventorySystemWeb\\Core\\obj\\",
+        "outputPath": "C:\\Users\\MCNP-ISAP\\Documents\\GitHub\\ICT-InventorySystemWeb\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -162,14 +162,14 @@
         }
       }
     },
-    "C:\\Users\\MCNP-ISAP\\Desktop\\InventorySystemWeb\\Infrastructure\\Infrastructure.csproj": {
+    "C:\\Users\\MCNP-ISAP\\Documents\\GitHub\\ICT-InventorySystemWeb\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MCNP-ISAP\\Desktop\\InventorySystemWeb\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\MCNP-ISAP\\Documents\\GitHub\\ICT-InventorySystemWeb\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "C:\\Users\\MCNP-ISAP\\Desktop\\InventorySystemWeb\\Infrastructure\\Infrastructure.csproj",
+        "projectPath": "C:\\Users\\MCNP-ISAP\\Documents\\GitHub\\ICT-InventorySystemWeb\\Infrastructure\\Infrastructure.csproj",
         "packagesPath": "C:\\Users\\MCNP-ISAP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MCNP-ISAP\\Desktop\\InventorySystemWeb\\Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\MCNP-ISAP\\Documents\\GitHub\\ICT-InventorySystemWeb\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -190,8 +190,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\MCNP-ISAP\\Desktop\\InventorySystemWeb\\Core\\Core.csproj": {
-                "projectPath": "C:\\Users\\MCNP-ISAP\\Desktop\\InventorySystemWeb\\Core\\Core.csproj"
+              "C:\\Users\\MCNP-ISAP\\Documents\\GitHub\\ICT-InventorySystemWeb\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\MCNP-ISAP\\Documents\\GitHub\\ICT-InventorySystemWeb\\Core\\Core.csproj"
               }
             }
           }

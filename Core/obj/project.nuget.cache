@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0d5oOcssyKFvn6V7a/ti7I+5X6vrjFyAB44fPsli2qQG05/JEXpK1gaIzbTXpk5AO6EwDP5MwJpdCtusnhhkqQ==",
+  "dgSpecHash": "/qx5NhdlhktkKzx7d9guf1xBLhgF5QQrJhghuBF6oLPM6wiv46QCwM2rtr5RMD/wROsh3wcAbaDgJdZKg2fPWg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\MCNP-ISAP\\Desktop\\InventorySystemWeb\\Core\\Core.csproj",
+  "projectFilePath": "C:\\Users\\MCNP-ISAP\\Documents\\GitHub\\ICT-InventorySystemWeb\\Core\\Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MCNP-ISAP\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.0\\microsoft.entityframeworkcore.7.0.0.nupkg.sha512",
     "C:\\Users\\MCNP-ISAP\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.0\\microsoft.entityframeworkcore.abstractions.7.0.0.nupkg.sha512",

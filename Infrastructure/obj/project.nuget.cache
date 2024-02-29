@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SrCeaakckjcTODTtxzWkkKrZrrqOBhKmEqyjfx2YocaWYUalzVHy3Lxe/ShteVWam9fOqDoAyYSUuLTGAVRqCQ==",
+  "dgSpecHash": "yNAQ/f57TIM5AzOfS+sR3WCKFWN6tHdGiMdtVhiDa+bBf6xroJsoY4ii1xJsCxkxGJxhIQumwY+J7uT+QaW9NQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\MCNP-ISAP\\Desktop\\InventorySystemWeb\\Infrastructure\\Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\MCNP-ISAP\\Documents\\GitHub\\ICT-InventorySystemWeb\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MCNP-ISAP\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\MCNP-ISAP\\.nuget\\packages\\microsoft.data.sqlite.core\\7.0.0\\microsoft.data.sqlite.core.7.0.0.nupkg.sha512",

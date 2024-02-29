@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gPMlgEapAccEYreBHpwCpYz7MgXR8ZUPQAAONkDWNAHQVPUb/oQWh/qtEicaB069aQfpi2XGzgpVdVgAnrWQPA==",
+  "dgSpecHash": "ajm6ZS0xxGZ27jPFTjl91E7f6qJuffvp8CQmUZulXqotfWOdY01ttqQj6GcDdmFeQS2Zg5Oyg5909e+PS9a2LA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\MCNP-ISAP\\Desktop\\InventorySystemWeb\\API\\API.csproj",
+  "projectFilePath": "C:\\Users\\MCNP-ISAP\\Documents\\GitHub\\ICT-InventorySystemWeb\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MCNP-ISAP\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\MCNP-ISAP\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
